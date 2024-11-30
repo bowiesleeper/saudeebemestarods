@@ -9,8 +9,8 @@
 </p>
 
 ## Integrantes
-- Maisa Rodrigues
-- Márcio Gustavo
+- [Maisa Rodrigues](https://github.com/maisarodriguess)
+- [Márcio Gustavo](https://github.com/bowiesleeper)
 
 ## ODS Selecionado
 - ODS 3: **Saúde e Bem-Estar**
